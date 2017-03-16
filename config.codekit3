@@ -7,151 +7,187 @@
 		"uuidString": "94BFBAB1-A533-4A4B-B9D4-85F93EC31376"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/assets\/background-tile.png": {
 		"ft": 32768,
 		"iS": 363650,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/background-tile.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/android-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 17552,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/android-icon-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/android-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 21965,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/android-icon-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/android-icon-36x36.png": {
 		"ft": 32768,
 		"iS": 3227,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/android-icon-36x36.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/android-icon-48x48.png": {
 		"ft": 32768,
 		"iS": 4861,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/android-icon-48x48.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/android-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 7322,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/android-icon-72x72.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/android-icon-96x96.png": {
 		"ft": 32768,
 		"iS": 10415,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/android-icon-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-114x114.png": {
 		"ft": 32768,
 		"iS": 13123,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-114x114.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 14185,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-120x120.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 17552,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 18722,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-152x152.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 23231,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-180x180.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-57x57.png": {
 		"ft": 32768,
 		"iS": 5618,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-57x57.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 6065,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-60x60.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 7322,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-72x72.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 7734,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-76x76.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 22541,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon-precomposed.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/apple-icon.png": {
 		"ft": 32768,
 		"iS": 22541,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/apple-icon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/browserconfig.xml": {
 		"ft": 8192,
@@ -162,26 +198,32 @@
 	"\/assets\/favicon.ico\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1383,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/favicon-16x16.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 2942,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/favicon-32x32.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 10415,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/favicon-96x96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/favicon.ico": {
 		"ft": 8192,
@@ -200,42 +242,52 @@
 	"\/assets\/favicon.ico\/ms-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 17552,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/ms-icon-144x144.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/ms-icon-150x150.png": {
 		"ft": 32768,
 		"iS": 18410,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/ms-icon-150x150.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/ms-icon-310x310.png": {
 		"ft": 32768,
 		"iS": 50727,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/ms-icon-310x310.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicon.ico\/ms-icon-70x70.png": {
 		"ft": 32768,
 		"iS": 7185,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicon.ico\/ms-icon-70x70.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/logo.png": {
 		"ft": 32768,
 		"iS": 125086,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/logo.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/LogoLivreBonneNuit.svg": {
 		"ft": 2097152,
@@ -253,15 +305,18 @@
 		"oA": 0,
 		"oAP": "\/assets\/me.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/placeholder.png": {
 		"ft": 32768,
 		"iS": 5204,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/placeholder.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/assets\/test.jpg": {
 		"ft": 16384,
@@ -269,7 +324,14 @@
 		"oA": 0,
 		"oAP": "\/assets\/test.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
 		},
 	"\/css\/index.css": {
 		"aP": 1,
@@ -1030,6 +1092,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1509,6 +1575,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -2109,7 +2179,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2202,7 +2273,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
