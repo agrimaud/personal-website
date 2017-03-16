@@ -39,6 +39,10 @@ h3 {
   color: #7C7263;
   line-height: 4rem;
   font-weight: 500; }
+  @media (max-width: 768px) {
+    h3 {
+      font-size: 2rem;
+      line-height: 3.6rem; } }
   @media (max-width: 320px) {
     h3 {
       font-size: 2rem;
@@ -49,6 +53,9 @@ h4 {
   font-size: 2rem;
   font-weight: 400;
   margin: 0 0 20px 0; }
+  @media (max-width: 768px) {
+    h4 {
+      font-size: 1.6rem; } }
 
 p {
   line-height: 2.4rem; }
@@ -58,30 +65,37 @@ p {
   margin: auto; }
   @media (max-width: 768px) {
     .main-container {
-      width: 768px; } }
+      width: 728px;
+      margin: 0 20px; } }
   @media (max-width: 320px) {
     .main-container {
-      width: 320px; } }
+      width: 280px;
+      margin: 0 20px; } }
 
 .profile-container {
   width: 960px;
   margin: auto; }
   @media (max-width: 768px) {
     .profile-container {
-      width: 768px; } }
+      width: 728px;
+      margin: 0 20px; } }
   @media (max-width: 320px) {
     .profile-container {
-      width: 280px;
-      margin: 0 20px; } }
+      width: 280px; } }
 
 .profile {
   width: 100%;
   padding: 80px 0;
   background-color: white;
   text-align: left; }
+  @media (max-width: 768px) {
+    .profile {
+      padding: 60px 0;
+      margin: 0 20px; } }
   @media (max-width: 320px) {
     .profile {
-      padding: 60px 0; } }
+      padding: 60px 0;
+      margin: 0 20px; } }
 
 .profile-details {
   width: 60%;
@@ -111,8 +125,6 @@ p {
   padding: 80px 0; }
   @media (max-width: 320px) {
     .main-container {
-      width: 280px;
-      margin: 0 20px;
       padding: 60px 0; } }
 
 .expertise {
@@ -128,6 +140,9 @@ p {
   color: #CDB48F;
   background-color: white;
   border-radius: 3px; }
+  @media (max-width: 768px) {
+    .expertise-item {
+      line-height: 2.6rem; } }
   @media (max-width: 320px) {
     .expertise-item {
       line-height: 2.6rem; } }
@@ -150,20 +165,19 @@ p {
   min-height: 320px;
   border-radius: 5px;
   width: 32%;
-  min-width: 240px;
+  min-width: 200px;
   cursor: crosshair; }
   @media (max-width: 320px) {
     .expertise-detail {
-      display: block;
+      flex-direction: column;
       margin: 8px 0 !important;
       width: 100%; } }
 
-.expertise-detail:hover {
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
-  transition: all 0.5s ease; }
-
 .expertise-detail:nth-child(2) {
   margin: 0 16px; }
+  @media (max-width: 768px) {
+    .expertise-detail:nth-child(2) {
+      margin: 0 8px; } }
 
 .expertise-detail ul {
   padding: 0px;
@@ -177,6 +191,9 @@ p {
   margin-bottom: 12px;
   line-height: 2rem;
   font-size: 1.6rem; }
+  @media (max-width: 768px) {
+    .expertise-detail li {
+      font-size: 1.2rem; } }
 
 .works {
   text-align: center; }
