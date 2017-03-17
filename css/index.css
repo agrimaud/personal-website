@@ -34,13 +34,14 @@ h2 {
 
 h3 {
   margin-bottom: 2.4rem;
-  font-size: 2.4rem;
+  font-size: 2rem;
   text-align: left;
   color: #7C7263;
   line-height: 3.6rem;
   font-weight: 500; }
   @media screen and (min-width: 767px) {
     h3 {
+      font-size: 2.4rem;
       line-height: 4rem; } }
 
 h4 {
@@ -146,7 +147,6 @@ p {
     align-items: stretch; } }
 
 .expertise-detail {
-  opacity: 1;
   transition: .3s ease;
   background-color: white;
   padding: 40px 24px;
@@ -155,7 +155,8 @@ p {
   margin-bottom: 16px; }
   @media screen and (min-width: 767px) {
     .expertise-detail {
-      width: 33.33%; } }
+      width: 33.33%;
+      margin-bottom: 0; } }
 
 @media screen and (min-width: 767px) {
   .expertise-detail:nth-child(2) {

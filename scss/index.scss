@@ -43,12 +43,13 @@ h2 {
 
 h3 {
   margin-bottom: 2.4rem;
-  font-size: 2.4rem;
+  font-size: 2rem;
   text-align: left;
   color: $text-color-medium;
   line-height: 3.6rem;
   font-weight: 500;
   @media screen and (min-width: $breakpoint-tablet) {
+    font-size: 2.4rem;
     line-height: 4rem;
   }
 }
@@ -194,7 +195,6 @@ p {
 }
 
 .expertise-detail {
-  opacity: 1;
   transition: .3s ease;
   background-color: white;
   padding: 40px 24px;
@@ -204,6 +204,7 @@ p {
 
   @media screen and (min-width: $breakpoint-tablet) {
     width: 33.33%;
+    margin-bottom: 0;
   }
 }
 
