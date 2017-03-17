@@ -175,14 +175,18 @@ p {
 }
 
 .expertise-item:hover {
+
+  @media screen and (min-width: $breakpoint-desktop) {
   color: white;
   background-color: $primary-color;
   cursor: crosshair;
+  }
+
+
 }
 
 .expertise-container {
-
-  @media screen and (min-width: $breakpoint-tablet) {
+    @media screen and (min-width: $breakpoint-tablet) {
     display: flex;
     flex-direction: row;
     align-items: stretch;

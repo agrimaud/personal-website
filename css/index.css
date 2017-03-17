@@ -133,10 +133,11 @@ p {
   background-color: white;
   border-radius: 3px; }
 
-.expertise-item:hover {
-  color: white;
-  background-color: #CDB48F;
-  cursor: crosshair; }
+@media screen and (min-width: 1023px) {
+  .expertise-item:hover {
+    color: white;
+    background-color: #CDB48F;
+    cursor: crosshair; } }
 
 @media screen and (min-width: 767px) {
   .expertise-container {

@@ -2,7 +2,8 @@ $(document).ready(
   function(){
 
     //hover on expertise-item in h3;
-    if ('ontouchstart' in window) {
+    if ('ontouchstart' in window) {}
+    else {
       $('#item1').hover(
         function() {
             $('#detail2').css('opacity','0.3');
